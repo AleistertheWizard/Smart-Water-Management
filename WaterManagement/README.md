@@ -1,14 +1,8 @@
-# Arduino Projects
+# Smart Water Management System
 
 ![Arduino Projects](https://nyerekatech.com/wp-content/uploads/2019/10/arduino.jpg)
 
-Welcome to the **Arduino Projects** repository! This collection showcases various Arduino-based projects that you can build and modify for learning, prototyping, or inspiration.
-
-## Projects
-
-1. **REAL TIME WATER MANAGEMENT SYSTEM** - A simple LED blinking example using an Arduino board and a resistor.
-
-STILL IN THE PROCESS OF MAKING NEW EXCITING PROJECTS
+Water Management System using an Arduino.
 
 ## Prerequisites
 
